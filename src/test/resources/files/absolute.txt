@@ -1,0 +1,10 @@
+1 5 average
+2 7 cool
+3 8 pretty good
+4 3 crap
+5 6 kinda entertaining
+6 6 funny
+7 7 entertaining
+8 5 meh
+9 7 good
+10 6 fine
